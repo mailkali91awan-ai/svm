@@ -1,0 +1,3 @@
+Streamlit: https://5rgvaafwqhjqbrnznzsh3d.streamlit.app/
+lab : https://www.kaggle.com/code/alihassan91/svm-iris
+    : https://www.kaggle.com/code/alihassan91/svm-iris-lab-task
